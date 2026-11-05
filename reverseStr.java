@@ -6,6 +6,7 @@ public class Kata {
     sb.reverse(); // Inverter a string
     String reversedStr = sb.toString(); // Convertir de volta para String
     System.out.println("Reversed String: " + reversedStr); // Imprimir a string 
+    System.out.println("String reversed");
     return reversedStr;
   }
 
